@@ -1,0 +1,438 @@
+[
+  {
+    "CityArea": "Alpine",
+    "DEVACRES": 4609.19628906
+  },
+  {
+    "CityArea": "Alta",
+    "DEVACRES": 985.791442871
+  },
+  {
+    "CityArea": "American Fork",
+    "DEVACRES": 8668.79101562
+  },
+  {
+    "CityArea": "Balance of BOX ELDER",
+    "DEVACRES": 16001.9619141
+  },
+  {
+    "CityArea": "Benjamin",
+    "DEVACRES": 4309.80029297
+  },
+  {
+    "CityArea": "Bluffdale",
+    "DEVACRES": 6378.35986328
+  },
+  {
+    "CityArea": "Bountiful",
+    "DEVACRES": 7377.0703125
+  },
+  {
+    "CityArea": "Box Elder County North",
+    "DEVACRES": 8780.125
+  },
+  {
+    "CityArea": "Box Elder County South",
+    "DEVACRES": 5245.85351562
+  },
+  {
+    "CityArea": "Brigham City",
+    "DEVACRES": 16004.3544922
+  },
+  {
+    "CityArea": "Brighton",
+    "DEVACRES": 1860.39562988
+  },
+  {
+    "CityArea": "Camp Williams",
+    "DEVACRES": 12603.75
+  },
+  {
+    "CityArea": "Cedar Fort",
+    "DEVACRES": 8382.8671875
+  },
+  {
+    "CityArea": "Cedar Hills",
+    "DEVACRES": 1568.74145508
+  },
+  {
+    "CityArea": "Centerville",
+    "DEVACRES": 3721.59399414
+  },
+  {
+    "CityArea": "Clearfield",
+    "DEVACRES": 4875.92333984
+  },
+  {
+    "CityArea": "Clinton",
+    "DEVACRES": 3738.85986328
+  },
+  {
+    "CityArea": "Copperton",
+    "DEVACRES": 501.802825928
+  },
+  {
+    "CityArea": "Cottonwood Heights",
+    "DEVACRES": 5306.88427734
+  },
+  {
+    "CityArea": "Davis County",
+    "DEVACRES": 55954.1015625
+  },
+  {
+    "CityArea": "Deer Ridge",
+    "DEVACRES": 1536.37561035
+  },
+  {
+    "CityArea": "Draper",
+    "DEVACRES": 12997.5039062
+  },
+  {
+    "CityArea": "Eagle Mountain",
+    "DEVACRES": 40791.2382812
+  },
+  {
+    "CityArea": "Eastside Mountains",
+    "DEVACRES": 296099.34375
+  },
+  {
+    "CityArea": "Elberta",
+    "DEVACRES": 28699.9785156
+  },
+  {
+    "CityArea": "Elk Ridge",
+    "DEVACRES": 1473.54321289
+  },
+  {
+    "CityArea": "Emigration Canyon",
+    "DEVACRES": 1659.8001709
+  },
+  {
+    "CityArea": "Fairfield",
+    "DEVACRES": 8137.79736328
+  },
+  {
+    "CityArea": "Farmington",
+    "DEVACRES": 7101.56787109
+  },
+  {
+    "CityArea": "Farr West",
+    "DEVACRES": 4156.24804688
+  },
+  {
+    "CityArea": "Fruit Heights",
+    "DEVACRES": 1449.71118164
+  },
+  {
+    "CityArea": "Genola",
+    "DEVACRES": 8429.40039062
+  },
+  {
+    "CityArea": "Goshen",
+    "DEVACRES": 9756.86230469
+  },
+  {
+    "CityArea": "HAFB",
+    "DEVACRES": 5599.64404297
+  },
+  {
+    "CityArea": "Harrisville",
+    "DEVACRES": 1867.93664551
+  },
+  {
+    "CityArea": "Herriman",
+    "DEVACRES": 12200.4541016
+  },
+  {
+    "CityArea": "Highland",
+    "DEVACRES": 5480.87207031
+  },
+  {
+    "CityArea": "Holladay",
+    "DEVACRES": 5301.45849609
+  },
+  {
+    "CityArea": "Hooper",
+    "DEVACRES": 7716.57861328
+  },
+  {
+    "CityArea": "Kaysville",
+    "DEVACRES": 7317.94873047
+  },
+  {
+    "CityArea": "Kearns",
+    "DEVACRES": 2794.39697266
+  },
+  {
+    "CityArea": "Lake Mountain",
+    "DEVACRES": 8330.87402344
+  },
+  {
+    "CityArea": "Lake Shore",
+    "DEVACRES": 8135.29248047
+  },
+  {
+    "CityArea": "Layton",
+    "DEVACRES": 15808.0478516
+  },
+  {
+    "CityArea": "Lehi",
+    "DEVACRES": 18847.2871094
+  },
+  {
+    "CityArea": "Lindon",
+    "DEVACRES": 3786.97363281
+  },
+  {
+    "CityArea": "Magna",
+    "DEVACRES": 4184.73144531
+  },
+  {
+    "CityArea": "Mantua",
+    "DEVACRES": 2427.21508789
+  },
+  {
+    "CityArea": "Mapleton",
+    "DEVACRES": 6448.58154297
+  },
+  {
+    "CityArea": "Marriott-Slaterville",
+    "DEVACRES": 4605.81738281
+  },
+  {
+    "CityArea": "Midvale",
+    "DEVACRES": 3814.63354492
+  },
+  {
+    "CityArea": "Mill Creek",
+    "DEVACRES": 7435.875
+  },
+  {
+    "CityArea": "Mosida",
+    "DEVACRES": 10259.4082031
+  },
+  {
+    "CityArea": "Murray",
+    "DEVACRES": 7865.83349609
+  },
+  {
+    "CityArea": "North Goshen Valley",
+    "DEVACRES": 18727.3085938
+  },
+  {
+    "CityArea": "North Ogden",
+    "DEVACRES": 5323.81103516
+  },
+  {
+    "CityArea": "North Salt Lake",
+    "DEVACRES": 6000.56494141
+  },
+  {
+    "CityArea": "Ogden",
+    "DEVACRES": 16966.25
+  },
+  {
+    "CityArea": "Orem",
+    "DEVACRES": 11817.1416016
+  },
+  {
+    "CityArea": "Palmyra",
+    "DEVACRES": 4254.04492188
+  },
+  {
+    "CityArea": "Payson",
+    "DEVACRES": 18301.5683594
+  },
+  {
+    "CityArea": "Perry",
+    "DEVACRES": 4760.89697266
+  },
+  {
+    "CityArea": "Plain City",
+    "DEVACRES": 8485.16894531
+  },
+  {
+    "CityArea": "Pleasant Grove",
+    "DEVACRES": 5597.72314453
+  },
+  {
+    "CityArea": "Pleasant View",
+    "DEVACRES": 4898.81738281
+  },
+  {
+    "CityArea": "Provo",
+    "DEVACRES": 16102.8066406
+  },
+  {
+    "CityArea": "Riverdale",
+    "DEVACRES": 2644.9050293
+  },
+  {
+    "CityArea": "Riverton",
+    "DEVACRES": 7971.84667969
+  },
+  {
+    "CityArea": "Roy",
+    "DEVACRES": 5158.98095703
+  },
+  {
+    "CityArea": "Salem",
+    "DEVACRES": 9384.31152344
+  },
+  {
+    "CityArea": "Salt Lake City",
+    "DEVACRES": 57556.0117188
+  },
+  {
+    "CityArea": "Sandy",
+    "DEVACRES": 15733.7558594
+  },
+  {
+    "CityArea": "Santaquin",
+    "DEVACRES": 11515.7587891
+  },
+  {
+    "CityArea": "Saratoga Springs",
+    "DEVACRES": 17088.2382812
+  },
+  {
+    "CityArea": "SL County East Cyns",
+    "DEVACRES": 21771.2421875
+  },
+  {
+    "CityArea": "SL County East Cyns - BCC",
+    "DEVACRES": 284.01159668
+  },
+  {
+    "CityArea": "SL County East Cyns - LCC",
+    "DEVACRES": 833.993896484
+  },
+  {
+    "CityArea": "SL County East Cyns - MCC",
+    "DEVACRES": 463.08416748
+  },
+  {
+    "CityArea": "SL County East Cyns - Parleys",
+    "DEVACRES": 3639.95263672
+  },
+  {
+    "CityArea": "SL County West",
+    "DEVACRES": 69960.9609375
+  },
+  {
+    "CityArea": "South Cedar Valley",
+    "DEVACRES": 57709.7226562
+  },
+  {
+    "CityArea": "South Goshen Valley",
+    "DEVACRES": 8639.22265625
+  },
+  {
+    "CityArea": "South Jordan",
+    "DEVACRES": 14140.0683594
+  },
+  {
+    "CityArea": "South Ogden",
+    "DEVACRES": 3642.07714844
+  },
+  {
+    "CityArea": "South Salt Lake",
+    "DEVACRES": 4372.91699219
+  },
+  {
+    "CityArea": "South Weber",
+    "DEVACRES": 3178.40258789
+  },
+  {
+    "CityArea": "Spanish Fork",
+    "DEVACRES": 14803.2666016
+  },
+  {
+    "CityArea": "Springville",
+    "DEVACRES": 10445.3261719
+  },
+  {
+    "CityArea": "Sunset",
+    "DEVACRES": 941.831970215
+  },
+  {
+    "CityArea": "Syracuse",
+    "DEVACRES": 7975.97167969
+  },
+  {
+    "CityArea": "Taylorsville",
+    "DEVACRES": 6921.67773438
+  },
+  {
+    "CityArea": "Uintah",
+    "DEVACRES": 883.305786133
+  },
+  {
+    "CityArea": "Utah Lake",
+    "DEVACRES": 13765.5214844
+  },
+  {
+    "CityArea": "Vineyard",
+    "DEVACRES": 2523.91674805
+  },
+  {
+    "CityArea": "Washington Terrace",
+    "DEVACRES": 1769.69238281
+  },
+  {
+    "CityArea": "Weber County",
+    "DEVACRES": 54843.6757812
+  },
+  {
+    "CityArea": "Weber County East Mountains",
+    "DEVACRES": 2535.46118164
+  },
+  {
+    "CityArea": "West Bountiful",
+    "DEVACRES": 2957.2421875
+  },
+  {
+    "CityArea": "West Haven",
+    "DEVACRES": 7225.10546875
+  },
+  {
+    "CityArea": "West Jordan",
+    "DEVACRES": 21949.6503906
+  },
+  {
+    "CityArea": "West Mountain",
+    "DEVACRES": 2077.50537109
+  },
+  {
+    "CityArea": "West Mountain Town",
+    "DEVACRES": 2832.95361328
+  },
+  {
+    "CityArea": "West Point",
+    "DEVACRES": 6699.52246094
+  },
+  {
+    "CityArea": "West Valley City",
+    "DEVACRES": 25601.84375
+  },
+  {
+    "CityArea": "Westside Mountains",
+    "DEVACRES": 65800.4453125
+  },
+  {
+    "CityArea": "White City",
+    "DEVACRES": 561.569580078
+  },
+  {
+    "CityArea": "Willard",
+    "DEVACRES": 3871.06640625
+  },
+  {
+    "CityArea": "Woodland Hills",
+    "DEVACRES": 1541.06103516
+  },
+  {
+    "CityArea": "Woods Cross",
+    "DEVACRES": 3559.83911133
+  }
+]
