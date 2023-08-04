@@ -16,8 +16,7 @@
     "classMin4": 5000,
     "classMin5": 10000,
     "classMin6": 18000,
-    "classMin7": 35000,
-    "": ""
+    "classMin7": 35000
   },
   {
     "geography": "CITYAREA",
@@ -36,8 +35,7 @@
     "classMin4": 15000,
     "classMin5": 30000,
     "classMin6": 50000,
-    "classMin7": 90000,
-    "": ""
+    "classMin7": 90000
   },
   {
     "geography": "CITYAREA",
@@ -56,8 +54,7 @@
     "classMin4": 1000,
     "classMin5": 1500,
     "classMin6": 3000,
-    "classMin7": 5000,
-    "": ""
+    "classMin7": 5000
   },
   {
     "geography": "CITYAREA",
@@ -76,8 +73,7 @@
     "classMin4": 6000,
     "classMin5": 12000,
     "classMin6": 25000,
-    "classMin7": 50000,
-    "": ""
+    "classMin7": 50000
   },
   {
     "geography": "CITYAREA",
@@ -96,8 +92,7 @@
     "classMin4": 7000,
     "classMin5": 14000,
     "classMin6": 25000,
-    "classMin7": 55000,
-    "": ""
+    "classMin7": 55000
   },
   {
     "geography": "CITYAREA",
@@ -116,8 +111,7 @@
     "classMin4": 1500,
     "classMin5": 2500,
     "classMin6": 4000,
-    "classMin7": 8000,
-    "": ""
+    "classMin7": 8000
   },
   {
     "geography": "CITYAREA",
@@ -136,8 +130,7 @@
     "classMin4": 8500,
     "classMin5": 16000,
     "classMin6": 32000,
-    "classMin7": 63000,
-    "": ""
+    "classMin7": 63000
   },
   {
     "geography": "CITYAREA",
@@ -156,8 +149,7 @@
     "classMin4": 15000,
     "classMin5": 25000,
     "classMin6": 36000,
-    "classMin7": 62000,
-    "": ""
+    "classMin7": 62000
   },
   {
     "geography": "CITYAREA",
@@ -176,8 +168,7 @@
     "classMin4": 36000,
     "classMin5": 80000,
     "classMin6": 120000,
-    "classMin7": 200000,
-    "": ""
+    "classMin7": 200000
   },
   {
     "geography": "CITYAREA",
@@ -196,8 +187,7 @@
     "classMin4": 4500,
     "classMin5": 8000,
     "classMin6": 12000,
-    "classMin7": 20000,
-    "": ""
+    "classMin7": 20000
   },
   {
     "geography": "CITYAREA",
@@ -216,8 +206,7 @@
     "classMin4": 15000,
     "classMin5": 30000,
     "classMin6": 50000,
-    "classMin7": 85000,
-    "": ""
+    "classMin7": 85000
   },
   {
     "geography": "CITYAREA",
@@ -236,8 +225,7 @@
     "classMin4": 20000,
     "classMin5": 35000,
     "classMin6": 70000,
-    "classMin7": 100000,
-    "": ""
+    "classMin7": 100000
   },
   {
     "geography": "CITYAREA",
@@ -256,8 +244,7 @@
     "classMin4": 25000,
     "classMin5": 45000,
     "classMin6": 8000,
-    "classMin7": 15000,
-    "": ""
+    "classMin7": 15000
   },
   {
     "geography": "CITYAREA",
@@ -276,8 +263,7 @@
     "classMin4": 15000,
     "classMin5": 28000,
     "classMin6": 55000,
-    "classMin7": 90000,
-    "": ""
+    "classMin7": 90000
   },
   {
     "geography": "CITYAREA",
@@ -296,8 +282,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CITYAREA",
@@ -316,8 +301,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CITYAREA",
@@ -336,8 +320,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CITYAREA",
@@ -356,8 +339,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CITYAREA",
@@ -376,8 +358,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CITYAREA",
@@ -396,8 +377,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CITYAREA",
@@ -416,8 +396,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "DISTMED",
@@ -436,8 +415,7 @@
     "classMin4": 5000,
     "classMin5": 10000,
     "classMin6": 18000,
-    "classMin7": 35000,
-    "": ""
+    "classMin7": 35000
   },
   {
     "geography": "DISTMED",
@@ -456,8 +434,7 @@
     "classMin4": 15000,
     "classMin5": 30000,
     "classMin6": 50000,
-    "classMin7": 90000,
-    "": ""
+    "classMin7": 90000
   },
   {
     "geography": "DISTMED",
@@ -476,8 +453,7 @@
     "classMin4": 1000,
     "classMin5": 1500,
     "classMin6": 3000,
-    "classMin7": 5000,
-    "": ""
+    "classMin7": 5000
   },
   {
     "geography": "DISTMED",
@@ -496,8 +472,7 @@
     "classMin4": 6000,
     "classMin5": 12000,
     "classMin6": 25000,
-    "classMin7": 50000,
-    "": ""
+    "classMin7": 50000
   },
   {
     "geography": "DISTMED",
@@ -516,8 +491,7 @@
     "classMin4": 7000,
     "classMin5": 14000,
     "classMin6": 25000,
-    "classMin7": 55000,
-    "": ""
+    "classMin7": 55000
   },
   {
     "geography": "DISTMED",
@@ -536,8 +510,7 @@
     "classMin4": 1500,
     "classMin5": 2500,
     "classMin6": 4000,
-    "classMin7": 8000,
-    "": ""
+    "classMin7": 8000
   },
   {
     "geography": "DISTMED",
@@ -556,8 +529,7 @@
     "classMin4": 6000.5,
     "classMin5": 12001,
     "classMin6": 25002,
-    "classMin7": 50004,
-    "": ""
+    "classMin7": 50004
   },
   {
     "geography": "DISTMED",
@@ -576,8 +548,7 @@
     "classMin4": 15000,
     "classMin5": 25000,
     "classMin6": 35000,
-    "classMin7": 60000,
-    "": ""
+    "classMin7": 60000
   },
   {
     "geography": "DISTMED",
@@ -596,8 +567,7 @@
     "classMin4": 56000,
     "classMin5": 85000,
     "classMin6": 125000,
-    "classMin7": 190000,
-    "": ""
+    "classMin7": 190000
   },
   {
     "geography": "DISTMED",
@@ -616,8 +586,7 @@
     "classMin4": 2500,
     "classMin5": 5000,
     "classMin6": 10000,
-    "classMin7": 15000,
-    "": ""
+    "classMin7": 15000
   },
   {
     "geography": "DISTMED",
@@ -636,8 +605,7 @@
     "classMin4": 20000,
     "classMin5": 32000,
     "classMin6": 50000,
-    "classMin7": 75000,
-    "": ""
+    "classMin7": 75000
   },
   {
     "geography": "DISTMED",
@@ -656,8 +624,7 @@
     "classMin4": 50000,
     "classMin5": 75000,
     "classMin6": 100000,
-    "classMin7": 150000,
-    "": ""
+    "classMin7": 150000
   },
   {
     "geography": "DISTMED",
@@ -676,8 +643,7 @@
     "classMin4": 5000,
     "classMin5": 7500,
     "classMin6": 10000,
-    "classMin7": 15000,
-    "": ""
+    "classMin7": 15000
   },
   {
     "geography": "DISTMED",
@@ -696,8 +662,7 @@
     "classMin4": 30000,
     "classMin5": 40000,
     "classMin6": 62000,
-    "classMin7": 96000,
-    "": ""
+    "classMin7": 96000
   },
   {
     "geography": "DISTMED",
@@ -716,8 +681,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "DISTMED",
@@ -736,8 +700,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "DISTMED",
@@ -756,8 +719,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "DISTMED",
@@ -776,8 +738,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "DISTMED",
@@ -796,8 +757,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "DISTMED",
@@ -816,8 +776,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "DISTMED",
@@ -836,8 +795,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "TAZ",
@@ -856,8 +814,7 @@
     "classMin4": 500,
     "classMin5": 750,
     "classMin6": 1000,
-    "classMin7": 1500,
-    "": ""
+    "classMin7": 1500
   },
   {
     "geography": "TAZ",
@@ -876,8 +833,7 @@
     "classMin4": 2000,
     "classMin5": 4000,
     "classMin6": 8000,
-    "classMin7": 16000,
-    "": ""
+    "classMin7": 16000
   },
   {
     "geography": "TAZ",
@@ -896,8 +852,7 @@
     "classMin4": 250,
     "classMin5": 500,
     "classMin6": 750,
-    "classMin7": 1000,
-    "": ""
+    "classMin7": 1000
   },
   {
     "geography": "TAZ",
@@ -916,8 +871,7 @@
     "classMin4": 500,
     "classMin5": 1000,
     "classMin6": 2500,
-    "classMin7": 5000,
-    "": ""
+    "classMin7": 5000
   },
   {
     "geography": "TAZ",
@@ -936,8 +890,7 @@
     "classMin4": 1000,
     "classMin5": 1500,
     "classMin6": 3000,
-    "classMin7": 5000,
-    "": ""
+    "classMin7": 5000
   },
   {
     "geography": "TAZ",
@@ -956,8 +909,7 @@
     "classMin4": 100,
     "classMin5": 200,
     "classMin6": 500,
-    "classMin7": 1000,
-    "": ""
+    "classMin7": 1000
   },
   {
     "geography": "TAZ",
@@ -976,8 +928,7 @@
     "classMin4": 500.5,
     "classMin5": 1001,
     "classMin6": 2502,
-    "classMin7": 5004,
-    "": ""
+    "classMin7": 5004
   },
   {
     "geography": "TAZ",
@@ -996,8 +947,7 @@
     "classMin4": 650,
     "classMin5": 1000,
     "classMin6": 1500,
-    "classMin7": 3000,
-    "": ""
+    "classMin7": 3000
   },
   {
     "geography": "TAZ",
@@ -1016,8 +966,7 @@
     "classMin4": 3000,
     "classMin5": 5500,
     "classMin6": 10000,
-    "classMin7": 25000,
-    "": ""
+    "classMin7": 25000
   },
   {
     "geography": "TAZ",
@@ -1036,8 +985,7 @@
     "classMin4": 500,
     "classMin5": 1000,
     "classMin6": 2000,
-    "classMin7": 4000,
-    "": ""
+    "classMin7": 4000
   },
   {
     "geography": "TAZ",
@@ -1056,8 +1004,7 @@
     "classMin4": 2500,
     "classMin5": 3500,
     "classMin6": 4500,
-    "classMin7": 5500,
-    "": ""
+    "classMin7": 5500
   },
   {
     "geography": "TAZ",
@@ -1076,8 +1023,7 @@
     "classMin4": 1500,
     "classMin5": 2500,
     "classMin6": 4000,
-    "classMin7": 6500,
-    "": ""
+    "classMin7": 6500
   },
   {
     "geography": "TAZ",
@@ -1096,8 +1042,7 @@
     "classMin4": 500,
     "classMin5": 1000,
     "classMin6": 2500,
-    "classMin7": 5000,
-    "": ""
+    "classMin7": 5000
   },
   {
     "geography": "TAZ",
@@ -1116,8 +1061,7 @@
     "classMin4": 3000,
     "classMin5": 5000,
     "classMin6": 8000,
-    "classMin7": 24000,
-    "": ""
+    "classMin7": 24000
   },
   {
     "geography": "TAZ",
@@ -1136,8 +1080,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "TAZ",
@@ -1156,8 +1099,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "TAZ",
@@ -1176,8 +1118,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "TAZ",
@@ -1196,8 +1137,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "TAZ",
@@ -1216,8 +1156,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "TAZ",
@@ -1236,8 +1175,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "TAZ",
@@ -1256,8 +1194,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "COUNTY",
@@ -1276,8 +1213,7 @@
     "classMin4": 150000,
     "classMin5": 200000,
     "classMin6": 250000,
-    "classMin7": 300000,
-    "": ""
+    "classMin7": 300000
   },
   {
     "geography": "COUNTY",
@@ -1296,8 +1232,7 @@
     "classMin4": 200000,
     "classMin5": 250000,
     "classMin6": 350000,
-    "classMin7": 450000,
-    "": ""
+    "classMin7": 450000
   },
   {
     "geography": "COUNTY",
@@ -1316,8 +1251,7 @@
     "classMin4": 37500,
     "classMin5": 50000,
     "classMin6": 67500,
-    "classMin7": 75000,
-    "": ""
+    "classMin7": 75000
   },
   {
     "geography": "COUNTY",
@@ -1336,8 +1270,7 @@
     "classMin4": 100000,
     "classMin5": 200000,
     "classMin6": 300000,
-    "classMin7": 400000,
-    "": ""
+    "classMin7": 400000
   },
   {
     "geography": "COUNTY",
@@ -1356,8 +1289,7 @@
     "classMin4": 250000,
     "classMin5": 375000,
     "classMin6": 500000,
-    "classMin7": 750000,
-    "": ""
+    "classMin7": 750000
   },
   {
     "geography": "COUNTY",
@@ -1376,8 +1308,7 @@
     "classMin4": 50000,
     "classMin5": 62500,
     "classMin6": 75000,
-    "classMin7": 90000,
-    "": ""
+    "classMin7": 90000
   },
   {
     "geography": "COUNTY",
@@ -1396,8 +1327,7 @@
     "classMin4": 187500,
     "classMin5": 312500,
     "classMin6": 442500,
-    "classMin7": 565000,
-    "": ""
+    "classMin7": 565000
   },
   {
     "geography": "COUNTY",
@@ -1416,8 +1346,7 @@
     "classMin4": 300000,
     "classMin5": 400000,
     "classMin6": 500000,
-    "classMin7": 600000,
-    "": ""
+    "classMin7": 600000
   },
   {
     "geography": "COUNTY",
@@ -1436,8 +1365,7 @@
     "classMin4": 400000,
     "classMin5": 500000,
     "classMin6": 700000,
-    "classMin7": 900000,
-    "": ""
+    "classMin7": 900000
   },
   {
     "geography": "COUNTY",
@@ -1456,8 +1384,7 @@
     "classMin4": 75000,
     "classMin5": 100000,
     "classMin6": 135000,
-    "classMin7": 150000,
-    "": ""
+    "classMin7": 150000
   },
   {
     "geography": "COUNTY",
@@ -1476,8 +1403,7 @@
     "classMin4": 200000,
     "classMin5": 400000,
     "classMin6": 600000,
-    "classMin7": 800000,
-    "": ""
+    "classMin7": 800000
   },
   {
     "geography": "COUNTY",
@@ -1496,8 +1422,7 @@
     "classMin4": 500000,
     "classMin5": 750000,
     "classMin6": 1000000,
-    "classMin7": 1500000,
-    "": ""
+    "classMin7": 1500000
   },
   {
     "geography": "COUNTY",
@@ -1516,8 +1441,7 @@
     "classMin4": 100000,
     "classMin5": 125000,
     "classMin6": 150000,
-    "classMin7": 180000,
-    "": ""
+    "classMin7": 180000
   },
   {
     "geography": "COUNTY",
@@ -1536,8 +1460,7 @@
     "classMin4": 375000,
     "classMin5": 625000,
     "classMin6": 885000,
-    "classMin7": 1130000,
-    "": ""
+    "classMin7": 1130000
   },
   {
     "geography": "COUNTY",
@@ -1556,8 +1479,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "COUNTY",
@@ -1576,8 +1498,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "COUNTY",
@@ -1596,8 +1517,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "COUNTY",
@@ -1616,8 +1536,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "COUNTY",
@@ -1636,8 +1555,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "COUNTY",
@@ -1656,8 +1574,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "COUNTY",
@@ -1676,8 +1593,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CITYAREA",
@@ -1696,8 +1612,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1716,8 +1631,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1736,8 +1650,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1756,8 +1669,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1776,8 +1688,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1796,8 +1707,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1816,8 +1726,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1836,8 +1745,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1856,8 +1764,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin7": 16
   },
   {
     "geography": "CITYAREA",
@@ -1876,8 +1783,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1896,8 +1802,7 @@
     "classMin4": 3,
     "classMin5": 4,
     "classMin6": 5,
-    "classMin7": 6,
-    "": ""
+    "classMin7": 6
   },
   {
     "geography": "CITYAREA",
@@ -1916,8 +1821,7 @@
     "classMin4": 4,
     "classMin5": 8,
     "classMin6": 10,
-    "classMin7": 12,
-    "": ""
+    "classMin7": 12
   },
   {
     "geography": "CITYAREA",
@@ -1936,8 +1840,7 @@
     "classMin4": 0.8,
     "classMin5": 1.2,
     "classMin6": 1.6,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CITYAREA",
@@ -1956,8 +1859,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 8,
-    "classMin7": 10,
-    "": ""
+    "classMin7": 10
   },
   {
     "geography": "CITYAREA",
@@ -1976,8 +1878,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -1996,8 +1897,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -2016,8 +1916,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -2036,8 +1935,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -2056,8 +1954,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -2076,8 +1973,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CITYAREA",
@@ -2096,8 +1992,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2116,8 +2011,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2136,8 +2030,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2156,8 +2049,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2176,8 +2068,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2196,8 +2087,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2216,8 +2106,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2236,8 +2125,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2256,8 +2144,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2276,8 +2163,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin7": 16
   },
   {
     "geography": "DISTMED",
@@ -2296,8 +2182,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2316,8 +2201,7 @@
     "classMin4": 3,
     "classMin5": 4,
     "classMin6": 5,
-    "classMin7": 6,
-    "": ""
+    "classMin7": 6
   },
   {
     "geography": "DISTMED",
@@ -2336,8 +2220,7 @@
     "classMin4": 4,
     "classMin5": 8,
     "classMin6": 10,
-    "classMin7": 12,
-    "": ""
+    "classMin7": 12
   },
   {
     "geography": "DISTMED",
@@ -2356,8 +2239,7 @@
     "classMin4": 0.8,
     "classMin5": 1.2,
     "classMin6": 1.6,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "DISTMED",
@@ -2376,8 +2258,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 8,
-    "classMin7": 10,
-    "": ""
+    "classMin7": 10
   },
   {
     "geography": "DISTMED",
@@ -2396,8 +2277,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2416,8 +2296,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2436,8 +2315,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2456,8 +2334,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2476,8 +2353,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2496,8 +2372,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "DISTMED",
@@ -2516,8 +2391,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2536,8 +2410,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2556,8 +2429,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2576,8 +2448,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2596,8 +2467,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2616,8 +2486,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2636,8 +2505,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2656,8 +2524,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2676,8 +2543,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin7": 16
   },
   {
     "geography": "TAZ",
@@ -2696,8 +2562,7 @@
     "classMin4": 16,
     "classMin5": 24,
     "classMin6": 36,
-    "classMin7": 48,
-    "": ""
+    "classMin7": 48
   },
   {
     "geography": "TAZ",
@@ -2716,8 +2581,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin7": 16
   },
   {
     "geography": "TAZ",
@@ -2736,8 +2600,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin7": 16
   },
   {
     "geography": "TAZ",
@@ -2756,8 +2619,7 @@
     "classMin4": 16,
     "classMin5": 20,
     "classMin6": 24,
-    "classMin7": 32,
-    "": ""
+    "classMin7": 32
   },
   {
     "geography": "TAZ",
@@ -2776,8 +2638,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin7": 16
   },
   {
     "geography": "TAZ",
@@ -2796,8 +2657,7 @@
     "classMin4": 4,
     "classMin5": 8,
     "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin7": 16
   },
   {
     "geography": "TAZ",
@@ -2816,8 +2676,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2836,8 +2695,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2856,8 +2714,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2876,8 +2733,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2896,8 +2752,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2916,8 +2771,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -2936,8 +2790,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -2956,8 +2809,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -2976,8 +2828,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -2996,8 +2847,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3016,8 +2866,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3036,8 +2885,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3056,8 +2904,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3076,8 +2923,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3096,8 +2942,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3116,8 +2961,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin7": 16
   },
   {
     "geography": "COUNTY",
@@ -3136,8 +2980,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3156,8 +2999,7 @@
     "classMin4": 3,
     "classMin5": 4,
     "classMin6": 5,
-    "classMin7": 6,
-    "": ""
+    "classMin7": 6
   },
   {
     "geography": "COUNTY",
@@ -3176,8 +3018,7 @@
     "classMin4": 4,
     "classMin5": 8,
     "classMin6": 10,
-    "classMin7": 12,
-    "": ""
+    "classMin7": 12
   },
   {
     "geography": "COUNTY",
@@ -3196,8 +3037,7 @@
     "classMin4": 0.8,
     "classMin5": 1.2,
     "classMin6": 1.6,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "COUNTY",
@@ -3216,8 +3056,7 @@
     "classMin4": 4,
     "classMin5": 6,
     "classMin6": 8,
-    "classMin7": 10,
-    "": ""
+    "classMin7": 10
   },
   {
     "geography": "COUNTY",
@@ -3236,8 +3075,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3256,8 +3094,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3276,8 +3113,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3296,8 +3132,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3316,8 +3151,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3336,8 +3170,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "COUNTY",
@@ -3356,8 +3189,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -3376,8 +3208,7 @@
     "classMin4": 500,
     "classMin5": 750,
     "classMin6": 1000,
-    "classMin7": 1500,
-    "": ""
+    "classMin7": 1500
   },
   {
     "geography": "OTHERAREA",
@@ -3396,8 +3227,7 @@
     "classMin4": 2000,
     "classMin5": 4000,
     "classMin6": 8000,
-    "classMin7": 16000,
-    "": ""
+    "classMin7": 16000
   },
   {
     "geography": "OTHERAREA",
@@ -3416,8 +3246,7 @@
     "classMin4": 250,
     "classMin5": 500,
     "classMin6": 750,
-    "classMin7": 1000,
-    "": ""
+    "classMin7": 1000
   },
   {
     "geography": "OTHERAREA",
@@ -3436,8 +3265,7 @@
     "classMin4": 500,
     "classMin5": 1000,
     "classMin6": 2500,
-    "classMin7": 5000,
-    "": ""
+    "classMin7": 5000
   },
   {
     "geography": "OTHERAREA",
@@ -3456,8 +3284,7 @@
     "classMin4": 1000,
     "classMin5": 1500,
     "classMin6": 3000,
-    "classMin7": 5000,
-    "": ""
+    "classMin7": 5000
   },
   {
     "geography": "OTHERAREA",
@@ -3476,8 +3303,7 @@
     "classMin4": 100,
     "classMin5": 200,
     "classMin6": 500,
-    "classMin7": 1000,
-    "": ""
+    "classMin7": 1000
   },
   {
     "geography": "OTHERAREA",
@@ -3496,8 +3322,7 @@
     "classMin4": 501,
     "classMin5": 1002,
     "classMin6": 2504,
-    "classMin7": 5008,
-    "": ""
+    "classMin7": 5008
   },
   {
     "geography": "OTHERAREA",
@@ -3511,13 +3336,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 150,
-    "classMin3": 400,
-    "classMin4": 650,
-    "classMin5": 1000,
-    "classMin6": 1500,
-    "classMin7": 3000,
-    "": ""
+    "classMin2": 850,
+    "classMin3": 2800,
+    "classMin4": 5800,
+    "classMin5": 9900,
+    "classMin6": 14500,
+    "classMin7": 21500
   },
   {
     "geography": "OTHERAREA",
@@ -3531,13 +3355,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 750,
-    "classMin3": 1500,
-    "classMin4": 3000,
-    "classMin5": 5500,
-    "classMin6": 10000,
-    "classMin7": 25000,
-    "": ""
+    "classMin2": 19000,
+    "classMin3": 32000,
+    "classMin4": 44500,
+    "classMin5": 60500,
+    "classMin6": 115000,
+    "classMin7": 165000
   },
   {
     "geography": "OTHERAREA",
@@ -3551,13 +3374,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 75,
-    "classMin3": 250,
-    "classMin4": 500,
-    "classMin5": 1000,
-    "classMin6": 2000,
-    "classMin7": 4000,
-    "": ""
+    "classMin2": 1400,
+    "classMin3": 3200,
+    "classMin4": 6100,
+    "classMin5": 10500,
+    "classMin6": 17000,
+    "classMin7": 23000
   },
   {
     "geography": "OTHERAREA",
@@ -3571,13 +3393,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 500,
-    "classMin3": 1500,
-    "classMin4": 2500,
-    "classMin5": 3500,
-    "classMin6": 4500,
-    "classMin7": 5500,
-    "": ""
+    "classMin2": 8200,
+    "classMin3": 16500,
+    "classMin4": 27000,
+    "classMin5": 42000,
+    "classMin6": 72000,
+    "classMin7": 99500
   },
   {
     "geography": "OTHERAREA",
@@ -3591,13 +3412,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 250,
-    "classMin3": 1000,
-    "classMin4": 1500,
-    "classMin5": 2500,
-    "classMin6": 4000,
-    "classMin7": 6500,
-    "": ""
+    "classMin2": 2200,
+    "classMin3": 7300,
+    "classMin4": 14500,
+    "classMin5": 25000,
+    "classMin6": 36500,
+    "classMin7": 50000
   },
   {
     "geography": "OTHERAREA",
@@ -3611,13 +3431,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 75,
-    "classMin3": 250,
-    "classMin4": 500,
-    "classMin5": 1000,
-    "classMin6": 2500,
-    "classMin7": 5000,
-    "": ""
+    "classMin2": 1700,
+    "classMin3": 4200,
+    "classMin4": 6700,
+    "classMin5": 10500,
+    "classMin6": 13500,
+    "classMin7": 19500
   },
   {
     "geography": "OTHERAREA",
@@ -3631,13 +3450,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 500,
-    "classMin3": 1500,
-    "classMin4": 3000,
-    "classMin5": 5000,
-    "classMin6": 8000,
-    "classMin7": 24000,
-    "": ""
+    "classMin2": 11500,
+    "classMin3": 20000,
+    "classMin4": 31000,
+    "classMin5": 45000,
+    "classMin6": 75500,
+    "classMin7": 122000
   },
   {
     "geography": "OTHERAREA",
@@ -3656,8 +3474,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "OTHERAREA",
@@ -3676,8 +3493,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "OTHERAREA",
@@ -3696,8 +3512,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "OTHERAREA",
@@ -3716,8 +3531,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "OTHERAREA",
@@ -3736,8 +3550,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "OTHERAREA",
@@ -3756,8 +3569,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "OTHERAREA",
@@ -3776,8 +3588,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "OTHERAREA",
@@ -3796,8 +3607,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -3816,8 +3626,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -3836,8 +3645,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -3856,8 +3664,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -3876,8 +3683,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -3896,8 +3702,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -3916,8 +3721,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -3931,13 +3735,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 6,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin2": 0.9,
+    "classMin3": 2.5,
+    "classMin4": 5,
+    "classMin5": 7.5,
+    "classMin6": 10,
+    "classMin7": 12.5
   },
   {
     "geography": "OTHERAREA",
@@ -3951,13 +3754,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 4,
-    "classMin3": 8,
-    "classMin4": 16,
-    "classMin5": 24,
-    "classMin6": 36,
-    "classMin7": 48,
-    "": ""
+    "classMin2": 9,
+    "classMin3": 20,
+    "classMin4": 30,
+    "classMin5": 40,
+    "classMin6": 60,
+    "classMin7": 90
   },
   {
     "geography": "OTHERAREA",
@@ -3971,13 +3773,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 6,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin2": 0.3,
+    "classMin3": 0.7,
+    "classMin4": 1,
+    "classMin5": 2,
+    "classMin6": 3,
+    "classMin7": 5
   },
   {
     "geography": "OTHERAREA",
@@ -3991,13 +3792,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 6,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin2": 0.5,
+    "classMin3": 1,
+    "classMin4": 2.5,
+    "classMin5": 7.5,
+    "classMin6": 15,
+    "classMin7": 30
   },
   {
     "geography": "OTHERAREA",
@@ -4011,13 +3811,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 4,
-    "classMin3": 8,
-    "classMin4": 16,
-    "classMin5": 20,
-    "classMin6": 24,
-    "classMin7": 32,
-    "": ""
+    "classMin2": 2,
+    "classMin3": 5.5,
+    "classMin4": 9.5,
+    "classMin5": 10,
+    "classMin6": 20,
+    "classMin7": 30
   },
   {
     "geography": "OTHERAREA",
@@ -4032,12 +3831,11 @@
     "classMin0": 0,
     "classMin1": 0.001,
     "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 6,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin3": 2.5,
+    "classMin4": 4.5,
+    "classMin5": 7,
+    "classMin6": 10,
+    "classMin7": 12.5
   },
   {
     "geography": "OTHERAREA",
@@ -4051,13 +3849,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 8,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin2": 4.5,
+    "classMin3": 10,
+    "classMin4": 20,
+    "classMin5": 30,
+    "classMin6": 50,
+    "classMin7": 70
   },
   {
     "geography": "OTHERAREA",
@@ -4076,8 +3873,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -4096,8 +3892,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -4116,8 +3911,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -4136,8 +3930,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -4156,8 +3949,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -4176,8 +3968,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "OTHERAREA",
@@ -4196,8 +3987,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "TAZ",
@@ -4216,8 +4006,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -4236,8 +4025,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -4256,8 +4044,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -4276,8 +4063,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -4296,8 +4082,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -4316,8 +4101,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -4336,8 +4120,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -4356,8 +4139,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -4376,8 +4158,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -4396,8 +4177,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -4416,8 +4196,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -4436,8 +4215,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -4456,8 +4234,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -4476,8 +4253,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -4496,8 +4272,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -4516,8 +4291,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -4536,8 +4310,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -4556,8 +4329,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -4576,8 +4348,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -4596,8 +4367,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -4616,8 +4386,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -4636,8 +4405,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -4656,8 +4424,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -4676,8 +4443,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -4696,8 +4462,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -4716,8 +4481,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -4736,8 +4500,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -4756,8 +4519,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -4776,8 +4538,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -4796,8 +4557,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -4816,8 +4576,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -4836,8 +4595,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -4856,8 +4614,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -4876,8 +4633,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -4896,8 +4652,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -4916,8 +4671,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "TAZ",
@@ -4936,8 +4690,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "TAZ",
@@ -4956,8 +4709,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "TAZ",
@@ -4976,8 +4728,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "TAZ",
@@ -4996,8 +4747,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "TAZ",
@@ -5016,8 +4766,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "TAZ",
@@ -5036,8 +4785,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CITYAREA",
@@ -5056,8 +4804,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CITYAREA",
@@ -5076,8 +4823,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CITYAREA",
@@ -5096,8 +4842,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CITYAREA",
@@ -5116,8 +4861,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CITYAREA",
@@ -5136,8 +4880,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CITYAREA",
@@ -5156,8 +4899,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CITYAREA",
@@ -5176,8 +4918,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "DISTMED",
@@ -5196,8 +4937,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "DISTMED",
@@ -5216,8 +4956,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "DISTMED",
@@ -5236,8 +4975,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "DISTMED",
@@ -5256,8 +4994,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "DISTMED",
@@ -5276,8 +5013,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "DISTMED",
@@ -5296,8 +5032,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "DISTMED",
@@ -5316,8 +5051,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "OTHERAREA",
@@ -5336,8 +5070,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "OTHERAREA",
@@ -5356,8 +5089,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "OTHERAREA",
@@ -5376,8 +5108,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "OTHERAREA",
@@ -5396,8 +5127,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "OTHERAREA",
@@ -5416,8 +5146,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "OTHERAREA",
@@ -5436,8 +5165,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "OTHERAREA",
@@ -5456,8 +5184,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "COUNTY",
@@ -5476,8 +5203,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "COUNTY",
@@ -5496,8 +5222,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "COUNTY",
@@ -5516,8 +5241,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "COUNTY",
@@ -5536,8 +5260,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "COUNTY",
@@ -5556,8 +5279,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "COUNTY",
@@ -5576,8 +5298,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "COUNTY",
@@ -5596,8 +5317,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "TAZ",
@@ -5616,8 +5336,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -5636,8 +5355,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -5656,8 +5374,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -5676,8 +5393,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -5696,8 +5412,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -5716,8 +5431,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -5736,8 +5450,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -5756,8 +5469,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -5776,8 +5488,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -5796,8 +5507,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -5816,8 +5526,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -5836,8 +5545,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -5856,8 +5564,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -5876,8 +5583,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -5896,8 +5602,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -5916,8 +5621,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -5936,8 +5640,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -5956,8 +5659,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -5976,8 +5678,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -5996,8 +5697,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -6016,8 +5716,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6036,8 +5735,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6056,8 +5754,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6076,8 +5773,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6096,8 +5792,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6116,8 +5811,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6136,8 +5830,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6156,8 +5849,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6176,8 +5868,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6196,8 +5887,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6216,8 +5906,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6236,8 +5925,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6256,8 +5944,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6276,8 +5963,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6296,8 +5982,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -6316,8 +6001,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -6336,8 +6020,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -6356,8 +6039,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -6376,8 +6058,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -6396,8 +6077,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -6416,8 +6096,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "TAZ",
@@ -6436,8 +6115,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -6456,8 +6134,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -6476,8 +6153,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -6496,8 +6172,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -6516,8 +6191,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -6536,8 +6210,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -6556,8 +6229,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CITYAREA",
@@ -6576,8 +6248,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -6596,8 +6267,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -6616,8 +6286,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -6636,8 +6305,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -6656,8 +6324,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -6676,8 +6343,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -6696,8 +6362,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "DISTMED",
@@ -6716,8 +6381,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6736,8 +6400,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6756,8 +6419,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6776,8 +6438,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6796,8 +6457,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6816,8 +6476,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6836,8 +6495,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "OTHERAREA",
@@ -6856,8 +6514,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6876,8 +6533,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6896,8 +6552,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6916,8 +6571,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6936,8 +6590,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6956,8 +6609,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6976,8 +6628,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "COUNTY",
@@ -6996,8 +6647,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -7016,8 +6666,7 @@
     "classMin4": 500,
     "classMin5": 750,
     "classMin6": 1000,
-    "classMin7": 1500,
-    "": ""
+    "classMin7": 1500
   },
   {
     "geography": "CENTER",
@@ -7036,8 +6685,7 @@
     "classMin4": 2000,
     "classMin5": 4000,
     "classMin6": 8000,
-    "classMin7": 16000,
-    "": ""
+    "classMin7": 16000
   },
   {
     "geography": "CENTER",
@@ -7056,8 +6704,7 @@
     "classMin4": 250,
     "classMin5": 500,
     "classMin6": 750,
-    "classMin7": 1000,
-    "": ""
+    "classMin7": 1000
   },
   {
     "geography": "CENTER",
@@ -7076,8 +6723,7 @@
     "classMin4": 500,
     "classMin5": 1000,
     "classMin6": 2500,
-    "classMin7": 5000,
-    "": ""
+    "classMin7": 5000
   },
   {
     "geography": "CENTER",
@@ -7096,8 +6742,7 @@
     "classMin4": 1000,
     "classMin5": 1500,
     "classMin6": 3000,
-    "classMin7": 5000,
-    "": ""
+    "classMin7": 5000
   },
   {
     "geography": "CENTER",
@@ -7116,8 +6761,7 @@
     "classMin4": 100,
     "classMin5": 200,
     "classMin6": 500,
-    "classMin7": 1000,
-    "": ""
+    "classMin7": 1000
   },
   {
     "geography": "CENTER",
@@ -7136,8 +6780,7 @@
     "classMin4": 350,
     "classMin5": 700,
     "classMin6": 1250,
-    "classMin7": 2000,
-    "": ""
+    "classMin7": 2000
   },
   {
     "geography": "CENTER",
@@ -7151,13 +6794,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 150,
-    "classMin3": 400,
-    "classMin4": 650,
-    "classMin5": 1000,
-    "classMin6": 1500,
-    "classMin7": 3000,
-    "": ""
+    "classMin2": 500,
+    "classMin3": 1500,
+    "classMin4": 3000,
+    "classMin5": 5700,
+    "classMin6": 10500,
+    "classMin7": 17000
   },
   {
     "geography": "CENTER",
@@ -7171,13 +6813,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 750,
-    "classMin3": 1500,
-    "classMin4": 3000,
-    "classMin5": 5500,
-    "classMin6": 10000,
-    "classMin7": 25000,
-    "": ""
+    "classMin2": 4100,
+    "classMin3": 11500,
+    "classMin4": 26500,
+    "classMin5": 57000,
+    "classMin6": 99500,
+    "classMin7": 150000
   },
   {
     "geography": "CENTER",
@@ -7191,13 +6832,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 75,
-    "classMin3": 250,
-    "classMin4": 500,
-    "classMin5": 1000,
-    "classMin6": 2000,
-    "classMin7": 4000,
-    "": ""
+    "classMin2": 550,
+    "classMin3": 1900,
+    "classMin4": 3800,
+    "classMin5": 7000,
+    "classMin6": 44500,
+    "classMin7": 56500
   },
   {
     "geography": "CENTER",
@@ -7211,13 +6851,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 500,
-    "classMin3": 1500,
-    "classMin4": 2500,
-    "classMin5": 3500,
-    "classMin6": 4500,
-    "classMin7": 5500,
-    "": ""
+    "classMin2": 2100,
+    "classMin3": 6400,
+    "classMin4": 14000,
+    "classMin5": 29000,
+    "classMin6": 57000,
+    "classMin7": 99000
   },
   {
     "geography": "CENTER",
@@ -7231,13 +6870,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 250,
-    "classMin3": 1000,
-    "classMin4": 1500,
-    "classMin5": 2500,
-    "classMin6": 4000,
-    "classMin7": 6500,
-    "": ""
+    "classMin2": 1300,
+    "classMin3": 3900,
+    "classMin4": 7800,
+    "classMin5": 15500,
+    "classMin6": 30000,
+    "classMin7": 53500
   },
   {
     "geography": "CENTER",
@@ -7251,13 +6889,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 75,
-    "classMin3": 250,
-    "classMin4": 500,
-    "classMin5": 1000,
-    "classMin6": 2500,
-    "classMin7": 5000,
-    "": ""
+    "classMin2": 500,
+    "classMin3": 1500,
+    "classMin4": 2900,
+    "classMin5": 5500,
+    "classMin6": 13000,
+    "classMin7": 19500
   },
   {
     "geography": "CENTER",
@@ -7271,13 +6908,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 1,
-    "classMin2": 500,
-    "classMin3": 1500,
-    "classMin4": 3000,
-    "classMin5": 5000,
-    "classMin6": 8000,
-    "classMin7": 24000,
-    "": ""
+    "classMin2": 3000,
+    "classMin3": 8700,
+    "classMin4": 17500,
+    "classMin5": 32000,
+    "classMin6": 73500,
+    "classMin7": 123000
   },
   {
     "geography": "CENTER",
@@ -7296,8 +6932,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CENTER",
@@ -7316,8 +6951,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CENTER",
@@ -7336,8 +6970,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CENTER",
@@ -7356,8 +6989,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CENTER",
@@ -7376,8 +7008,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CENTER",
@@ -7396,8 +7027,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CENTER",
@@ -7416,8 +7046,7 @@
     "classMin4": 0.25,
     "classMin5": 0.5,
     "classMin6": 1,
-    "classMin7": 2,
-    "": ""
+    "classMin7": 2
   },
   {
     "geography": "CENTER",
@@ -7436,8 +7065,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7456,8 +7084,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7476,8 +7103,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7496,8 +7122,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7516,8 +7141,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7536,8 +7160,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7556,8 +7179,7 @@
     "classMin4": 2,
     "classMin5": 2.5,
     "classMin6": 3,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7572,12 +7194,11 @@
     "classMin0": 0,
     "classMin1": 0.001,
     "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 6,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin3": 2.5,
+    "classMin4": 5,
+    "classMin5": 7.5,
+    "classMin6": 10,
+    "classMin7": 20
   },
   {
     "geography": "CENTER",
@@ -7591,13 +7212,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 4,
-    "classMin3": 8,
-    "classMin4": 16,
-    "classMin5": 24,
-    "classMin6": 36,
-    "classMin7": 48,
-    "": ""
+    "classMin2": 7.5,
+    "classMin3": 20,
+    "classMin4": 30,
+    "classMin5": 40,
+    "classMin6": 60,
+    "classMin7": 100
   },
   {
     "geography": "CENTER",
@@ -7611,13 +7231,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 6,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin2": 0.5,
+    "classMin3": 1.5,
+    "classMin4": 2.5,
+    "classMin5": 5,
+    "classMin6": 7.5,
+    "classMin7": 10
   },
   {
     "geography": "CENTER",
@@ -7631,13 +7250,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 6,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin2": 5,
+    "classMin3": 10,
+    "classMin4": 20,
+    "classMin5": 30,
+    "classMin6": 50,
+    "classMin7": 80
   },
   {
     "geography": "CENTER",
@@ -7651,13 +7269,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 4,
-    "classMin3": 8,
-    "classMin4": 16,
+    "classMin2": 2.5,
+    "classMin3": 7.5,
+    "classMin4": 10,
     "classMin5": 20,
-    "classMin6": 24,
-    "classMin7": 32,
-    "": ""
+    "classMin6": 30,
+    "classMin7": 50
   },
   {
     "geography": "CENTER",
@@ -7671,13 +7288,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 6,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin2": 2.5,
+    "classMin3": 5,
+    "classMin4": 10,
+    "classMin5": 20,
+    "classMin6": 30,
+    "classMin7": 80
   },
   {
     "geography": "CENTER",
@@ -7691,13 +7307,12 @@
     "numClasses": 8,
     "classMin0": 0,
     "classMin1": 0.001,
-    "classMin2": 1,
-    "classMin3": 2,
-    "classMin4": 4,
-    "classMin5": 8,
-    "classMin6": 12,
-    "classMin7": 16,
-    "": ""
+    "classMin2": 5,
+    "classMin3": 10,
+    "classMin4": 20,
+    "classMin5": 30,
+    "classMin6": 60,
+    "classMin7": 90
   },
   {
     "geography": "CENTER",
@@ -7716,8 +7331,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7736,8 +7350,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7756,8 +7369,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7776,8 +7388,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7796,8 +7407,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7816,8 +7426,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7836,8 +7445,7 @@
     "classMin4": 0.5,
     "classMin5": 1,
     "classMin6": 2,
-    "classMin7": 4,
-    "": ""
+    "classMin7": 4
   },
   {
     "geography": "CENTER",
@@ -7856,8 +7464,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -7876,8 +7483,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -7896,8 +7502,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -7916,8 +7521,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -7936,8 +7540,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -7956,8 +7559,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -7976,8 +7578,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.15,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -7996,8 +7597,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8016,8 +7616,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8036,8 +7635,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8056,8 +7654,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8076,8 +7673,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8096,8 +7692,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8116,8 +7711,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8136,8 +7730,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CENTER",
@@ -8156,8 +7749,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CENTER",
@@ -8176,8 +7768,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CENTER",
@@ -8196,8 +7787,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CENTER",
@@ -8216,8 +7806,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CENTER",
@@ -8236,8 +7825,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CENTER",
@@ -8256,8 +7844,7 @@
     "classMin4": 1,
     "classMin5": 1.5,
     "classMin6": 3,
-    "classMin7": 5,
-    "": ""
+    "classMin7": 5
   },
   {
     "geography": "CENTER",
@@ -8276,8 +7863,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8296,8 +7882,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8316,8 +7901,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8336,8 +7920,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8356,8 +7939,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8376,8 +7958,7 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   },
   {
     "geography": "CENTER",
@@ -8396,7 +7977,6 @@
     "classMin4": 0.05,
     "classMin5": 0.1,
     "classMin6": 0.25,
-    "classMin7": 0.5,
-    "": ""
+    "classMin7": 0.5
   }
 ]
