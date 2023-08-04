@@ -17,6 +17,7 @@
 var sViewAdvanced = "<p style=\"color:white\">View Advanced Version</p>";
 var sViewBasic = "<p style=\"color:white\">View Basic Version</p>";
 
+
 define([
     'dojo/_base/declare',
     'dojo/dom',
